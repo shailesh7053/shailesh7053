@@ -143,4 +143,4 @@ class Skills extends SoftwareDeveloper {
 
 
 
-## ⭐️ From [Shailesh](https://github.com/avinash2507)
+## ⭐️ From [Shailesh](https://github.com/shailesh7053)
