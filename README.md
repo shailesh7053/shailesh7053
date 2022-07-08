@@ -1,5 +1,5 @@
 ## नमस्ते 🙏, I'm SHAILESH KUMAR
-## NEXT JS, REACTJS & MERN Stack Developer 👨‍💻
+## PYTHON, DATA ANALYTIC & MACHINE LEARNING 👨‍💻
 # Avinash&nbsp;<img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/tumblr_mpaas5eUwa1qh3xpmo1_500.gif" width="50px" height="50px">
 
   <a href="https://vercel.com/avinash2507/my-portfolio">
