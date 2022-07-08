@@ -1,6 +1,6 @@
 ## नमस्ते 🙏, I'm SHAILESH KUMAR
-## PYTHON, DATA ANALYTIC & MACHINE LEARNING 👨‍💻
-# Avinash&nbsp;<img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/tumblr_mpaas5eUwa1qh3xpmo1_500.gif" width="50px" height="50px">
+## PYTHON, DATA ANALYTICS & MACHINE LEARNING 👨‍💻
+# Shailesh&nbsp;<img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/tumblr_mpaas5eUwa1qh3xpmo1_500.gif" width="50px" height="50px">
 
   <a href="https://vercel.com/avinash2507/my-portfolio">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Earth.gif" />
@@ -17,14 +17,14 @@
 
 <p>
   <em>
-    I have graduate with Electrical Engineering from <b>Hi-Tech Institute of Engineering & Technolgy </b> <br>
+    I have graduate with Mechanical Engineering from <b>Hi-Tech Institute of Engineering & Technolgy </b> <br>
     25 years of living a comical life! <br>
-    A passionate Web Developer with (Core Knowledge  in Electronics) Nextjs (typescript),React & Redux  internship 6 month of experience in  Mobile Communication field<br>
+    A passionate DATA SCIENCE with Data Analytics, Machine Learning , and i have done 6 month internship of Machine Learning. and also have experience in  Mobile Communication field and Mechanical engineering field <br>
     <b>A friendly Neighbourhood Web Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px" height="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px" height="20px"> <br>
-    I Love <b>Web and mobile Development</b> <br>
+    I Love <b>Data Analytics and Machine Learning</b> <br>
   </em>  
 </p>
 
