@@ -19,8 +19,8 @@
   <em>
     I have graduate with Mechanical Engineering from <b>Hi-Tech Institute of Engineering & Technolgy </b> <br>
     25 years of living a comical life! <br>
-    A passionate DATA SCIENCE with Data Analytics, Machine Learning , and i have done 6 month internship of Machine Learning. and also have experience in  Mobile Communication field and Mechanical engineering field <br>
-    <b>A friendly Neighbourhood Web Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">  who is <b>obsessed</b>
+    A passionate DATA SCIENCE with Data Analytics & Machine Learning and i have done 2 month internship of Machine Learning and also have experience in Mobile Communication field and Mechanical engineering field <br>
+    <b>A friendly Neighbourhood Data Science</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px" height="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px" height="20px"> <br>
