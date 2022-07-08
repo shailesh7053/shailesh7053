@@ -49,6 +49,7 @@ class Bio extends WebDevloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['Python Programming'];
   Libraries =  ['Pandas', 'Numpy', 'Matplotlib', 'Seaborn'];
+  Web_development_tools=['HTML','&','CSS', 'Basics' ]
   Web_development_framework=["Django Basics"];
   databases  = ['MongoDB'];
   webappApp_on = ["Streamlit"];
