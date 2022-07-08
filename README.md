@@ -24,15 +24,14 @@
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px" height="18px">and 
     <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px" height="20px"> <br>
-    I Love <b>Data Analytics and Machine Learning</b> <br>
+    I Love <b>Data Analytics and Machine Learning.</b> <br>
   </em>  
 </p>
 
 <br>
 
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" height="20vh" /> I’m *currently* **Exploring** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" height="20vh" /> I’m **good** in **Web Development** and currently learning **Redux-saga and storyBook in react** 💪.
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" height="20vh" /> For the reusablity of components I am following the **Atomic Design principle** along with that **styled-components** and **atomic css** & for the optimization I am following **redux-dev-tools** and **react-dev-tools** and **memo hoc**.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" height="20vh" /> I’m **good** in **Machine Learning ** and currently learning **Data Analysis** 💪.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" height="20vh" /> I Love **Learning** and **explore new tools and technologies** 🌐
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" height="20vh" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
@@ -42,24 +41,20 @@ import WebDevloper from 'India';
 import SoftDevloper from 'Javascript';
 
 class Bio extends WebDevloper {
-  name     = 'Avinash Vishwakarma';
-  title    = 'Web Developer';
-  location = 'Bangalore,India';
+  name     = 'Shailesh Kumar';
+  title    = 'Data Analytics and Machine Learning';
+  location = 'Gurgaon,India';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript','Css','Html'];
-  frameworks = ['React', 'React Native', 'Angular', 'Bootstrap'];
-  react_library=["Redux","Redux-thunk","redux-devtools-extenstion","react-devtools-extenstions","react-router-dom"];
-  css_framework=["MaterialUI","bootStrap","Scss","Styled-components","ANTD"]
-  backEnd: ["nodejs", "express", "Jwt"],
+  languages  = ['Python Programming'];
+  Libraries =  ['Pandas', 'Numpy', 'Matplotlib', 'Seaborn'];
+  Web_development_framework=["Django Basics"];
   databases  = ['MongoDB'];
-  architecture:["Serverless Architecture", "microservices",  "Single page applications"];
-  devOps=["AWS", "Nginx", "Jenkins","Docker"];
-  mobileApp= ["ionic","react-native"];
-  reusable_optimized_component=["Atomic Design principle","Styled-components","Memo hoc","Atomic css","React-devtools","Redux-devtools"]
+  webappApp_on = ["Streamlit"];
   
 }
+
 ```
 
 ---
@@ -67,7 +62,7 @@ class Skills extends SoftwareDeveloper {
 
 ### Languages<sup>*</sup>
 
-  **JavaScript**: 
+  **Python**: 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/narendram224)](https://github.com/narendram224)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/narendram224)](https://github.com/narendram224) 
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/narendram224)](https://github.com/narendram224) 
@@ -139,7 +134,7 @@ class Skills extends SoftwareDeveloper {
   <a href="https://stackoverflow.com/users/19481245/avinash-vishwakarma">
     <img align="left" alt="Satyam Goyal | Instagram"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:avinash2632@gmail.com">
+  <a href="mailto:shaileshgond92@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
@@ -148,4 +143,4 @@ class Skills extends SoftwareDeveloper {
 
 
 
-## ⭐️ From [Avinash](https://github.com/avinash2507)
+## ⭐️ From [Shailesh](https://github.com/avinash2507)
