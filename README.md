@@ -41,32 +41,14 @@
 
 ### Languages<sup>*</sup>
 
-  **Python**:
-  
-  **React:**
-  
-  
-   <img alt="GIF" src="https://www.drupal.org/files/project-images/nextjs-drupal.jpg" width="50vw" height="40vh" style="display:inline;" />
-     
-  
-   
-### Tools
+  **Programming Languages** :Python Programming 
+  **Data Visualization** : Matplotlib 📊 and Seaborn 📊 
+  **Data Manipulation and Analysis** : Pandas 🐼 
+  **Mathematical Operations** : NumPy 🔢 
+  # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-**Software Development:**
-
- <img alt="GIF" src="https://pbs.twimg.com/profile_images/1285860990056194049/10ydbKG1_400x400.jpg" width="40vw" height="40vh" style="display:inline;" />
-
-
-
-**Software Engineering:**
-
-
-<sup>*click on some badges may redirect you to the corresponding repositories</sup>
-
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-
-  <a href="https://www.linkedin.com/in/avinash-vishwakarma-6b0a7918b/">
-    <img align="left" alt="Narendra Maurya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  <a href="https://www.linkedin.com/in/shailesh-kumar-282134217/">
+    <img align="left" alt="Shailesh Kumar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:shaileshgond92@gmail.com">
     <img align="left" alt="Shailesh Kumar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
