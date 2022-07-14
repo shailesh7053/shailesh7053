@@ -33,7 +33,7 @@
 ---
 ### 💻:keyboard: Languages and Tools 
 
-  **Programming Languages**                 : Python Programming 
+  **Programming Languages**                 : Python Programming 💻
   </br>**Data Visualization**               : Matplotlib 📊 and Seaborn 📊 
   </br>**Data Manipulation and Analysis**   : Pandas 🐼 
   </br>**Mathematical Operations**          : NumPy 🔢 
