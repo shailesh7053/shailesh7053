@@ -33,10 +33,10 @@
 ---
 ### 💻:keyboard: Languages and Tools 
 
-  **Programming Languages** :Python Programming 
-  </br>**Data Visualization** : Matplotlib 📊 and Seaborn 📊 
-  </br>**Data Manipulation and Analysis** : Pandas 🐼 
-  </br>**Mathematical Operations** : NumPy 🔢 
+  **Programming Languages**                 : Python Programming 
+  </br>**Data Visualization**               : Matplotlib 📊 and Seaborn 📊 
+  </br>**Data Manipulation and Analysis**   : Pandas 🐼 
+  </br>**Mathematical Operations**          : NumPy 🔢 
   
   
   # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
@@ -49,7 +49,4 @@
   </a>
 
 <br><br>
-
-
-
 ## ⭐️ From [Shailesh](https://github.com/shailesh7053)
