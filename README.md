@@ -1,11 +1,6 @@
 ## नमस्ते 🙏, I'm SHAILESH KUMAR
 ## PYTHON, DATA ANALYTICS & MACHINE LEARNING 👨‍💻
 # Shailesh&nbsp;<img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/tumblr_mpaas5eUwa1qh3xpmo1_500.gif" width="50px" height="50px">
-
-  <a href="https://vercel.com/avinash2507/my-portfolio">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Earth.gif" />
-    <b>My Personal Website</b>
-</a>
 &nbsp;
 </br>
 <!-- 
@@ -45,6 +40,8 @@
   **Data Visualization** : Matplotlib 📊 and Seaborn 📊 
   **Data Manipulation and Analysis** : Pandas 🐼 
   **Mathematical Operations** : NumPy 🔢 
+  
+  
   # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/shailesh-kumar-282134217/">
