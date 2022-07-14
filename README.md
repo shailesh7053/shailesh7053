@@ -36,28 +36,6 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" height="20vh" /> Have a look at my Repos💡 & do Leave a **STAR**⭐️ if you like my work👨‍💻.
 <br>
 
-```js
-import WebDevloper from 'India';
-import SoftDevloper from 'Javascript';
-
-class Bio extends WebDevloper {
-  name     = 'Shailesh Kumar';
-  title    = 'Data Analytics and Machine Learning';
-  location = 'Gurgaon,India';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['Python Programming'];
-  Libraries =  ['Pandas', 'Numpy', 'Matplotlib', 'Seaborn'];
-  Web_development_tools=['HTML','&','CSS', 'Basics' ]
-  Web_development_framework=["Django Basics"];
-  databases  = ['MongoDB'];
-  webappApp_on = ["Streamlit"];
-  
-}
-
-```
-
 ---
 ### 💻:keyboard: Languages and Tools 
 
