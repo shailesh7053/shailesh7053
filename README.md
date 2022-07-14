@@ -6,7 +6,6 @@
 <!-- 
     &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
 -->
-
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px" height="30px" > Hello world!&nbsp;
 
 
@@ -34,12 +33,10 @@
 ---
 ### 💻:keyboard: Languages and Tools 
 
-### Languages<sup>*</sup>
-
   **Programming Languages** :Python Programming 
-  **Data Visualization** : Matplotlib 📊 and Seaborn 📊 
-  **Data Manipulation and Analysis** : Pandas 🐼 
-  **Mathematical Operations** : NumPy 🔢 
+  </br>**Data Visualization** : Matplotlib 📊 and Seaborn 📊 
+  </br>**Data Manipulation and Analysis** : Pandas 🐼 
+  </br>**Mathematical Operations** : NumPy 🔢 
   
   
   # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
