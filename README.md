@@ -33,10 +33,14 @@
 ---
 ### 💻:keyboard: Languages and Tools 
 
-  **Programming Languages**                 : Python Programming 💻
+  **Python Notbooks**                       : Google Colaboratory and Jupyter Notebook  
+  </br>**Programming Languages**            : Python Programming 💻
+  </br>**Database**                         : MySQL(Beginner) 📅
   </br>**Data Visualization**               : Matplotlib 📊 and Seaborn 📊 
-  </br>**Data Manipulation and Analysis**   : Pandas 🐼 
-  </br>**Mathematical Operations**          : NumPy 🔢 
+  </br>**Data Manipulation Tools **         : NumPy 🔢 and Pandas 🐼 
+  </br>**Machine Learning**                 : Natural Languages Processing  
+  </br>**Webapp**                           : Streamlit 
+  
   
   
   # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
