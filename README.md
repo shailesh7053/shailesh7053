@@ -33,12 +33,12 @@
 ---
 ### 💻:keyboard: Languages and Tools 
 
-  **Python Notbooks**                       : Google Colaboratory and Jupyter Notebook  
+       **Python Notbooks**                       : Google Colaboratory and Jupyter Notebook  
   </br>**Programming Languages**            : Python Programming 💻
   </br>**Database**                         : MySQL(Beginner) 📅
   </br>**Data Visualization**               : Matplotlib 📊 and Seaborn 📊 
-  </br>**Data Manipulation Tools**          : NumPy 🔢 and Pandas 🐼 
-  </br>**Machine Learning**                 : Natural Languages Processing  
+  </br>**Data Manipulation Tools**          : NumPy 🔢 and Pandas 🐼
+  </br>**Machine Learning**                 : Natural Languages Processing
   </br>**Webapp**                           : Streamlit 
   
   
