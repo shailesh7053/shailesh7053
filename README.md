@@ -33,7 +33,7 @@
 ---
 ### 💻:keyboard: Languages and Tools 
 
-   **Python Notbooks**                      : Google Colaboratory and Jupyter Notebook  
+  **Python Notbooks**                       : Google Colaboratory and Jupyter Notebook
   </br>**Programming Languages**            : Python Programming 💻
   </br>**Database**                         : MySQL(Beginner) 📅
   </br>**Data Visualization**               : Matplotlib 📊 and Seaborn 📊 
