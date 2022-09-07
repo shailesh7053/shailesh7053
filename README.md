@@ -1,4 +1,4 @@
-## नमस्ते 🙏, I'm SHAILESH KUMAR
+## Welcome 🙏, I'm SHAILESH KUMAR
 ## PYTHON, DATA ANALYTICS & MACHINE LEARNING 👨‍💻
 # Shailesh&nbsp;<img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/tumblr_mpaas5eUwa1qh3xpmo1_500.gif" width="50px" height="50px">
 &nbsp;
