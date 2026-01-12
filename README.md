@@ -11,8 +11,8 @@
 
 <p>
   <em>
-    I have graduate with Mechanical Engineering from <b>Hi-Tech Institute of Engineering & Technolgy </b> <br>
-    25 years of living a comical life! <br>
+    I graduated in Mechanical Engineering from Hi-Tech Institute of Engineering & Technology
+    I’m currently working as a System Administrator and learning to scale my skills toward Cloud Administration & Cloud Architecture. <br>
     A passionate DATA SCIENCE with Data Analytics & Machine Learning and I have done 2 month Internship of Machine Learning and also have experience in Mobile Communication field and Mechanical engineering field <br>
     <b>A friendly Neighbourhood Data Science</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
