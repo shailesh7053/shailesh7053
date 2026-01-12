@@ -18,16 +18,16 @@ Shailesh <img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/
 <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" height="20vh" /> Have a look at my Repos 💡 & do Leave a STAR⭐️ if you like my work 👨‍💻
 
 <br>
-💻:keyboard: Languages and Tools
+###💻:keyboard: Languages and Tools
 
-Cloud Platforms: Azure ☁️ | AWS Workspace
-</br>Systems & Identity: Windows Server | Active Directory | Entra ID
-</br>Automation: PowerShell | Azure Automation Runbooks
-</br>Security & Updates: Patch Management | RBAC | Update Management
-</br>Databases: SQL Server (Beginner) 📅
-</br>Analytics & Scripting: Python | Pandas | Matplotlib
-</br>Ticketing Tools: Jira | Kayako
-</br>Monitoring & Logs: Logs & Alerts | Diagnostics | Troubleshooting
+**Cloud Platforms**                  : Azure ☁️ | AWS Workspace
+</br>**Systems & Identity**          : Windows Server | Active Directory | Entra ID
+</br>**Automation**                  : PowerShell | Azure Automation Runbooks
+</br>**Security & Updates**          : Patch Management | RBAC | Update Management
+</br>**Databases**                   : SQL Server (Beginner) 📅
+</br>**Analytics & Scripting**       : Python | Pandas | Matplotlib
+</br>**Ticketing Tools**             : Jira | Kayako
+</br>**Monitoring & Logs**           : Logs & Alerts | Diagnostics | Troubleshooting
 
 <br>
 Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
