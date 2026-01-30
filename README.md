@@ -39,7 +39,7 @@
   
   # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/shailesh-kumar-282134217/">
+  <a href="https://www.linkedin.com/in/shailesh-kumar-37a24b361/">
     <img align="left" alt="Shailesh Kumar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:shaileshgond92@gmail.com">
