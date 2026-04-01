@@ -11,7 +11,7 @@
 
 </br>
 
-<p> <em> I graduated in Mechanical Engineering from <b>Hi-Tech Institute of Engineering & Technology</b>. <br> I’m currently working as a <b>System Administrator</b> and developing my skills toward <b>Cloud Administration</b> & <b>Cloud Architecture</b>. <br> I enjoy working with <b>Microsoft Azure</b>, <b>Windows Server</b>, <b>Active Directory</b>, and <b>Automation tools</b>. I have experience supporting production environments and improving infra performance. <br> <b>A friendly neighbourhood Cloud Admin</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning Enthusiast</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px"> who is always exploring new tools, cloud services, and technologies. <br> I’m obsessed with the idea of <b>improving</b> my skills, learning faster, and finding a platform to <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px" height="18px"> and <b>excel</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px" height="20px">. <br> I love <b>Cloud Infrastructure, Automation, and IT Security.</b> </em> </p> <br>
+<p> <em> I graduated in Mechanical Engineering from <b>Hi-Tech Institute of Engineering & Technology</b>. <br> I’m currently working as a <b>System Administrator</b> and developing my skills toward <b>Cloud Administration</b> & <b>Cloud Architecture</b>. <br> I enjoy working with <b>Microsoft Azure</b>,<b>Terraform(IaC)</b>, <b>Windows Server</b>, <b>Active Directory</b>, and <b>Automation tools</b>. I have experience supporting production environments and improving infra performance. <br> <b>A friendly neighbourhood Cloud Admin</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning Enthusiast</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px"> who is always exploring new tools, cloud services, and technologies. <br> I’m obsessed with the idea of <b>improving</b> my skills, learning faster, and finding a platform to <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px" height="18px"> and <b>excel</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px" height="20px">. <br> I love <b>Cloud Infrastructure, Automation, and IT Security.</b> </em> </p> <br>
 
 <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" height="20vh" /> I’m currently Exploring ☁️ & working on my Infra Skills 👨‍💻
 
@@ -26,9 +26,9 @@
 ---
 **#💻Languages and Tools#**
 
-**Cloud Platforms**                  : Azure ☁️ | AWS Workspace
+**Cloud Platforms**                  : Azure ☁️ | AWS 
 </br>**Systems & Identity**          : Windows Server | Active Directory | Entra ID
-</br>**Automation**                  : PowerShell | Azure Automation Runbooks
+</br>**Automation**                  : PowerShell | Azure Automation Runbooks | Terraform
 </br>**Security & Updates**          : Patch Management | RBAC | Update Management
 </br>**Databases**                   : SQL Server (Beginner) 📅
 </br>**Analytics & Scripting**       : Python | Pandas | Matplotlib
